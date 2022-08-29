@@ -39,7 +39,7 @@
 $ python PassGen.py
 
 # Specify the length 
-$ python -l,--length [LENGTH]
+$ python PassGen.py -l,--length [LENGTH]
 ```
 
 
